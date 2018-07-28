@@ -1,12 +1,10 @@
 """
 
-6 Person Hunger Games (alpha) by Enine.
+6 Person Hunger Games (alpha) by NateSprtz
 
 NOTE:Pvp has not been added yet. It is coming in a later update. For now, you can only die of natural causes, or by killing yourself.
 
-SPLIT YOUR INPUTS INTO SEPERATE LINES AT INPUT BOX OR IT WILL NOT WORK!!!
-
-12 or 24 person hunger games coming soon once I find an optimized system.
+12 or 24 person hunger games coming soon.
 
 """
 import random
